@@ -1,0 +1,14 @@
+#EXTM3U
+
+
+#EXTINF: -1 , Canal Vh1 Classic
+http://50.7.231.220:8081/174/index.m3u8?wmsAuthSign=1600582515p87i66i9i971Sbd87f19bdef8d7de5b19fcff9eff02b5
+
+#EXTINF: -1 , Canal Vh1 Europeo
+http://50.7.231.220:8081/175/index.m3u8?wmsAuthSign=1600583680p87i66i9i971Se7f6463381c8bd7bf2578f301e682cf8
+
+#EXTINF: -1, Canal RetroTV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF: -1, Canal EuropaPlus tv
+http://50.7.161.20:8081/574/index.m3u8?wmsAuthSign=1600585644p87i66i9i971S6a4be94bdc7e41a19ef0c4c7303fa208
