@@ -12,3 +12,6 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF: -1, Canal EuropaPlus tv
 http://50.7.161.20:8081/574/index.m3u8?wmsAuthSign=1600585644p87i66i9i971S6a4be94bdc7e41a19ef0c4c7303fa208
+
+#EXTINF: -1, Canal MCM Top
+http://50.7.161.20:8081/535/index.m3u8?wmsAuthSign=1600587178p87i66i9i971S3841c85839feee9d086a805624305b60
